@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(236, 235, 235);
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-family: lobster;
+    font-weight: bolder;
+}
+
+ul{
+    display: block;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background :repeating-linear-gradient(45deg, rgb(255, 255, 255) 0px, rgba(255, 255, 255, 0.774) 40px, white 40px, rgba(255, 255, 255, 0.534) 80px)
+}
